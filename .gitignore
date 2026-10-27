@@ -1,0 +1,12 @@
+# Unreal Engine Temporary Folders
+Binaries/*
+DerivedDataCache/*
+Intermediate/*
+Saved/*
+
+# IDE and Project Files
+.vs/
+.idea/
+*.VC.db
+*.opendb
+*.sln
