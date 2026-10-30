@@ -10,3 +10,7 @@ Saved/*
 *.VC.db
 *.opendb
 *.sln
+# Claude (lokal, jangan di-commit)
+CLAUDE.md
+.mcp.json
+.claude/
