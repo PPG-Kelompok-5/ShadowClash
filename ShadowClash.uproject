@@ -56,10 +56,6 @@
 			"TargetAllowList": [
 				"Editor"
 			]
-		},
-		{
-			"Name": "Terminal",
-			"Enabled": true
 		}
 	]
 }
